@@ -1,7 +1,7 @@
 # clalendar_for_polystar
 polystar프로젝트 완성을 위한 달력 제작 연습 repository입니다
 
-해결해야 할 것</br>
+해결해야 할 것</br></br>
 사용자에게 년도와 월을 받고 그 년도와 월에 맞는 달력 출력하기
 
 - 날짜만 바뀌도록 하고 싶다.
